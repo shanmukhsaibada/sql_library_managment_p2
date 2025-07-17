@@ -533,5 +533,5 @@ This project demonstrates the application of SQL skills in creating and managing
 ## Author - Shanmukha Sai Bada
 
 
-- **LinkedIn**: [Connect with me professionally][(https://www.linkedin.com/in/najirr)](https://www.linkedin.com/in/shanmukha-sai-bada/).
+- **LinkedIn**: [Connect with me professionally][(https://www.linkedin.com/in/shanmukha-sai-bada/)].
 
